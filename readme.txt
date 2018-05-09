@@ -1,2 +1,2 @@
 this is a test project.
-creating a branch is quick.
+creating a branch is quick & simple.
